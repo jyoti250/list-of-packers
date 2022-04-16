@@ -1,0 +1,83 @@
+List of packers:
+
+UPX(Ultimate Packer for Executables):
+  It uses an open-source algorithm that does not require any additional system memory for decompression.
+  UPX is a free, portable, extendable, high-performance executable packer for several executable formats
+  UPX achieves an excellent compression ratio and offers very fast decompression.
+  No memory overhead for your compressed executables because of in-place decompression. 
+  Safe: you can list, test and unpack your executables. Also, a checksum of both the compressed and uncompressed file is     
+  maintained internally.
+  Universal: UPX can pack a number of executable formats.
+  Portable: UPX is written in portable endian-neutral C++.
+  Extendable: because of the class layout it's very easy to add new executable formats or new compression algorithms.
+  Free: UPX is distributed with full source code under the GNU General Public License v2+
+
+
+The Enigma Protector
+  The Enigma Protector is marketed for individuals and businesses who want to protect their files from hacking. Nonetheless,   The Enigma Protector is commonly used to obfuscate malware. It is a protection tool
+  It has advanced scheme of registration keys generation: comfortable interface for creating and verifying of registration 
+  keys, special Enigma API, hardware locking of registration keys, time limited registration key, unique license manager and 
+  automatic mailer. 
+
+
+MPRESS
+  MPRESS was originally designed to compress files and decrease application start times. This free software is  
+  extremely useful for regular file compression, it is also easily accessible to hackers and other malware writers.
+
+
+Exe Packer 2.300
+  Exe Packer 2.300 is a standard, free software for file compression and decompression. Since it has been around for years,   
+  Exe Packer 2.300 is one of the most popular packers for malicious file obfuscation.
+
+
+ExeStealth
+  ExeStealth is a tool that encrypts files to avoid detection and hacking. Designed by WebToolMaster, this free software is   
+  simple to implement and one of the best anti-hacking tools on the market, which also makes it effective at hiding malware 
+  code in your system.
+  It boasts a clean and straightforward interface that allows users to perform most operations with just a few clicks
+  EXEStealth allows you to generate keys, enable the expiry date, check valid serial number, as well as disable the “Save as”   and “Print” features.
+
+
+Morphine
+  Unlike most other packers, Morphine includes its own PE loader, allowing users to encrypt the output of compressed data.  
+  The polymorphic engine is also used to create completely unique decryptors for malware.
+
+
+Themida
+  Themida was developed by Oreans to protect Windows applications from hackers. Unfortunately, it can also be used to encrypt   malicious files and complicate attempts to reverse-engineer malware.
+  Free registry cleaners available.
+  Themida provides an excellent user interface which is easy to navigate and provides a comprehensive overview download   
+  purchase and installation features.
+
+
+MEW
+  MEW is primarily used for smaller malware file compression using the LZMA algorithm. Even though it was designed for small   files, it has been updated over time so that it can also obfuscate larger malware files.
+  MEW is a free exe-packer program.
+  The whole compression task comes down to providing the path to the executable file and enabling or disabling the options   
+  displayed in the main window.
+
+
+FSG
+  The free, simple FSG software compresses both small and large files. While it is popular and commonly used to hide malware   code, it is also relatively simple to unpack through a decompression loop that writes the data to the final destination.
+
+
+PESpin
+  PESpin compresses Windows code using MASM. It protects files against patching and disassembling, making it a popular 
+  resource for malware authors.
+
+
+Andromeda
+  While Andromeda refers to a botnet that has been around since 2011, it is also a custom packer. Custom packers are  
+  especially dangerous because they are not as simple to reverse-engineer.
+
+
+VMProtect
+  VMProtect is very popular, as it can encrypt a wide range of files, including executable files, drivers and dynamic-link 
+  libraries. When an application encrypted by VMProtect is opened, the packer does not decrypt anything; instead, it runs on   a virtualized code.
+
+
+Obsidium
+  Obsidium works for both 32-bit and 64-bit Windows applications. This software is capable of encrypting, compressing, and  
+  obfuscating malware.
+  Obsidium is an advanced and reliable utility designed to provide developers with a means of encrypting their products to 
+  prevent cracking, allowing them to set up precise licensing conditions.
